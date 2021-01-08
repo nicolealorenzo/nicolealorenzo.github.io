@@ -2,6 +2,7 @@
 
 Seattle, WA
 +1 808.938.1605 | nicolealorenzo@gmail.com
+
 http://www.linkedin.com/in/nicole-lorenzo
 
 # Summary
@@ -35,7 +36,7 @@ TravelStart (South Africa) | Jul 2018 - Aug 2018
 * Create deliverable presentations of research and customer interactions effectiveness of sales
 * Experience with MS Excel and Python
 
-#Education
+# Education
 ### University of Washington
 Seattle, WA
 * 4th Year Undergraduate (Senior)
@@ -44,7 +45,7 @@ Seattle, WA
 * EOP Scholar
 * GPA: 3.57
 
-#Leadership
+# Leadership
 ### The Sisterhood of Pi Nu Iota
 * Member of a Filipinx interest sisterhood that embraces academics, culture, community, and womxn empowerment.
 * Pledge Coordinator 2020 - Present
