@@ -11,10 +11,9 @@ body {
   -o-background-size: cover;
 
 }
-.floatRightClear{
-  float:right;
-  clear:right;
-  margin-left:20px
+img.resize {
+  max-width:50%;
+  max-height:50%;
 }
 a.button {
     -webkit-appearance: button;
