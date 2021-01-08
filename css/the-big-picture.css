@@ -11,6 +11,11 @@ body {
   -o-background-size: cover;
 
 }
+.floatRightClear{
+  float:right;
+  clear:right;
+  margin-left:20px
+}
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
