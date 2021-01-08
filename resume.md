@@ -1,9 +1,9 @@
 # Nicole Lorenzo
 
-Seattle, WA
+>Seattle, WA
 +1 808.938.1605 | nicolealorenzo@gmail.com
 
-http://www.linkedin.com/in/nicole-lorenzo
+>http://www.linkedin.com/in/nicole-lorenzo
 
 # Summary
 * Senior at the University of Washington studying **Data Science and Informatics.**
