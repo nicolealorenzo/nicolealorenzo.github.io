@@ -4,9 +4,9 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url('https://instagram.flwo4-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/135603653_735099117111299_8278008135908004450_n.jpg?_nc_ht=instagram.flwo4-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=eLdp6Ac2XgcAX9dy0Kr&tp=1&oh=1e0dc530cfb048b137b6e14cbaa4246d&oe=6020A915') no-repeat center center fixed;
-  -webkit-background-size: 300px 100px;
-  -moz-background-size: 300px 100px;
-  background-size: 300px 100px;
-  -o-background-size: 300px 100px;
+  background-color: lightblue;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
