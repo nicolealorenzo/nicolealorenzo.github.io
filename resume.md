@@ -3,7 +3,7 @@
 >(She/Her) | Seattle, WA
 
 +1 808.938.1605 | nicolealorenzo@gmail.com |
-<a href="http://www.linkedin.com/in/nicole-lorenzo">LinedIn</a>
+<a href="http://www.linkedin.com/in/nicole-lorenzo">LinkedIn</a>
 
 # Summary
 * Senior at the University of Washington studying **Data Science and Informatics.**
