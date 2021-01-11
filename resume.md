@@ -1,9 +1,9 @@
 # Nicole Lorenzo
-
 >(She/Her) | Seattle, WA
 
 +1 808.938.1605 | nicolealorenzo@gmail.com |
 <a href="http://www.linkedin.com/in/nicole-lorenzo">LinkedIn</a>
+<img src="broom.jpeg" alt="Nicole Lorenzo">
 
 # Summary
 * Senior at the University of Washington studying **Data Science and Informatics.**
@@ -21,6 +21,7 @@ Seattle, WA | Oct 2020 - Present
 * Manage outbound research for small-enterprise sized compannies.
 * Create and publish content for social media accounts and blogs.
 * In charge of recording demos and product intergrations for S2B product.
+
 ### Marketing Consultant Intern | Learny Co
 Seattle, WA (Remote) | Jun 2020 - Sept 2020
 * Create and manage an affiliate program for PTAs across the nation.
@@ -28,6 +29,7 @@ Seattle, WA (Remote) | Jun 2020 - Sept 2020
 * Develop relationships with new users and map out their journeys to becoming full customers
 * Managed CRM through HubSpot
 Visualize and communicate growth up until launch
+
 ### CRM Intern
 TravelStart (South Africa) | Jul 2018 - Aug 2018
 * Find and visualize customer patterns to approach new marketing techniques using Python
@@ -47,6 +49,7 @@ Seattle, WA
 
 # Leadership
 ### The Sisterhood of Pi Nu Iota
+<a href="https://www.pinuiota.com/">Website</a>
 * Member of a Filipinx interest sisterhood that embraces academics, culture, community, and womxn empowerment.
 * Pledge Coordinator 2020 - Present
 * Take on leadership roles and become more involved with the community and Filipinx culture.
@@ -69,3 +72,5 @@ Seattle, WA
 * Data Analytics
 * Data Visualization (Excel, Tableau)
 * Problem solving and collaboration
+
+<img src="1.png" alt="Nicole Lorenzo">
